@@ -1,8 +1,3 @@
-<h1 align="center"> Welcome 👋 <br/></h1> 
-<p align="center">My name is Yury, and I'm trying to do programming.</p>
-
-<h2 align="center">Core stack</h2>
-
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![TS](https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node](https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge)
