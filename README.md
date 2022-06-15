@@ -10,7 +10,7 @@
 
 <h2 align="center">My Projects</h2>
 
-📝 **Cheatsheets**: [CheatJS](https://github.com/cheatjs/cheat) <br>
+📝 **Cheatsheets**: [Backend cheats](https://github.com/cheatsnake/backend-cheats) | [CheatJS](https://github.com/cheatjs/cheat) <br>
 📡 **Public APIs**: [xColors](https://github.com/cheatsnake/xColors-api) | [xMath](https://github.com/cheatsnake/xMath-api) | [Classify](https://github.com/cheatsnake/classify) | [EmojiHub](https://github.com/cheatsnake/emojihub) <br>
 🔮 **Backend**: [Auth API](https://github.com/cheatsnake/auth-api) | [Shop API](https://github.com/cheatsnake/shop-api) | [Blog API](https://github.com/cheatsnake/blog-api) | [User API](https://github.com/cheatsnake/user-api) | [WS chat](https://github.com/cheatsnake/ws-chat) | [Scrapper](https://github.com/cheatsnake/nodejs-scraper) | [Emoji parser](https://github.com/cheatsnake/emoji-parser) <br>
 🎮 **Games**: [Binario](https://github.com/cheatsnake/binario) | [Mind Math](https://github.com/cheatsnake/MindMath) | [Typing Race](https://github.com/cheatsnake/TypingRace) <br>
